@@ -14,3 +14,5 @@ The module replaces the file */system/media/theme/default/framework-res*. Theref
 Tested on Xiaomi Redmi 5 Plus (MiuiPro 10 | 8.9.20)
 
 Провенео на Xiaomi Redmi 5 Plus (MiuiPro 10 | 8.9.20)
+
+![Иллюстрация к проекту](https://github.com/daradan/img/raw/master/navbar_height_miui10.jpg)
