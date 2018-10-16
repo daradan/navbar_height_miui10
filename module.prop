@@ -1,6 +1,6 @@
 id=miui10_navbar_height
 name=NavBar height on miui 10
-version=v1
+version=v1.0
 versionCode=1
 author=daradan
 description=A short module for change navbar height to 30.0dip on miui 10
